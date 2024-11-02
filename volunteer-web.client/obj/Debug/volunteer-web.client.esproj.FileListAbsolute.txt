@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\volunteer-web\volunteer-web.client\obj\Debug\volunteer-web.client.esproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Web app dev\PROJECT\volunteer-web-main\volunteer-web.client\obj\Debug\volunteer-web.client.esproj.CoreCompileInputs.cache
