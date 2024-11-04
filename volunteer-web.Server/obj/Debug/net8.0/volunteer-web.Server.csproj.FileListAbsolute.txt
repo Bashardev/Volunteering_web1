@@ -281,6 +281,7 @@ C:\Users\user\Desktop\Web app dev\PROJECT\volunteer-web-main\volunteer-web.Serve
 C:\Users\user\Desktop\Web app dev\PROJECT\volunteer-web-main\volunteer-web.Server\obj\Debug\net8.0\volunteer-web.Server.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\user\Desktop\Web app dev\PROJECT\volunteer-web-main\volunteer-web.Server\obj\Debug\net8.0\volunteer-web.Server.RazorAssemblyInfo.cache
 C:\Users\user\Desktop\Web app dev\PROJECT\volunteer-web-main\volunteer-web.Server\obj\Debug\net8.0\volunteer-web.Server.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Web app dev\PROJECT\volunteer-web-main\volunteer-web.Server\obj\Debug\net8.0\volunteer-web.Server.sourcelink.json
 C:\Users\user\Desktop\Web app dev\PROJECT\volunteer-web-main\volunteer-web.Server\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\user\Desktop\Web app dev\PROJECT\volunteer-web-main\volunteer-web.Server\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\user\Desktop\Web app dev\PROJECT\volunteer-web-main\volunteer-web.Server\obj\Debug\net8.0\staticwebassets\msbuild.volunteer-web.Server.Microsoft.AspNetCore.StaticWebAssets.props

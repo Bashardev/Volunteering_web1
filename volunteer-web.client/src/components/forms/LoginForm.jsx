@@ -1,12 +1,13 @@
-import { useState } from "react";
+import { useState, useContext } from "react";
 import { NavLink, useNavigate } from "react-router-dom";
+import { AuthContext } from "../navbar/AuthContext"; // Import your AuthContext
 import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function LoginForm() {
+    const { login } = useContext(AuthContext); // Access the login function from the context
     const [formData, setFormData] = useState({ email: "", password: "" });
     const [formErrors, setFormErrors] = useState({ email: "", password: "" });
     const [isLoading, setIsLoading] = useState(false);
-    const [submittedUsers, setSubmittedUsers] = useState([]);
     const navigate = useNavigate(); // Initialize navigate hook
 
     const handleSubmit = async (e) => {
@@ -31,8 +32,8 @@ export default function LoginForm() {
 
                 if (response.ok) {
                     console.log("Login successful!");
-                    setSubmittedUsers((prevUsers) => [...prevUsers, formData]);
-                    navigate("/dashboard"); // Redirect to the dashboard page
+                    login(data.user); // Call the login function from context, passing user data
+                    navigate("/dashboard"); // Redirect to the dashboard
                 } else {
                     console.log("Login failed:", data);
                     setFormErrors({ email: data.message, password: "" });
@@ -124,24 +125,8 @@ export default function LoginForm() {
                             <NavLink to="/register" className="text-decoration-none">Register</NavLink>
                         </p>
                     </div>
-
-                    <div className="mt-4">
-                        <h4 className="text-center">Submitted Users</h4>
-                        {submittedUsers.length > 0 ? (
-                            <ul className="list-group">
-                                {submittedUsers.map((user, index) => (
-                                    <li key={index} className="list-group-item">
-                                        <strong>Email:</strong> {user.email}
-                                    </li>
-                                ))}
-                            </ul>
-                        ) : (
-                            <p className="text-center">No users submitted yet.</p>
-                        )}
-                    </div>
                 </div>
             </div>
         </div>
     );
 }
-

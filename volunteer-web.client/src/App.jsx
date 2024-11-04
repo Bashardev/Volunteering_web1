@@ -5,11 +5,12 @@ import vol1 from "./assets/vol1.jpeg"
 import vol2 from "./assets/vol2.jpeg"
 import vol3 from "./assets/vol3.jpeg"
 import { NavLink } from "react-router-dom";
+import { AuthProvider } from "./components/navbar/AuthContext";
 
 function App() {
   return (
-      <div className="App">
-     
+    <div className="App">
+
       {/* Hero Section */}
       <div className="bg-light text-dark mt-5 text-center py-5">
         <div className="container">
