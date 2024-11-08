@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.Server\\..\\volunteer-web.client",
+"WorkingDirectory": "C:\\Users\\user\\Downloads\\Volunteering_web1-main (2)\\Volunteering_web1-main\\volunteer-web.Server\\..\\volunteer-web.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

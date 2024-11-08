@@ -4537,11 +4537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.Server\\volunteer-web.Server.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Downloads\\Volunteering_web1-main (2)\\Volunteering_web1-main\\volunteer-web.Server\\volunteer-web.Server.csproj",
       "projectName": "volunteer-web.Server",
-      "projectPath": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.Server\\volunteer-web.Server.csproj",
+      "projectPath": "C:\\Users\\user\\Downloads\\Volunteering_web1-main (2)\\Volunteering_web1-main\\volunteer-web.Server\\volunteer-web.Server.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.Server\\obj\\",
+      "outputPath": "C:\\Users\\user\\Downloads\\Volunteering_web1-main (2)\\Volunteering_web1-main\\volunteer-web.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,5 +12,12 @@ namespace volunteer_web.Server.Controllers
         {
             return View();
         }
+
+        // GET: /Home/AboutPage
+        [HttpGet("AboutPage")]
+        public IActionResult GetAboutPage()
+        {
+            return View("~/Views/Index.cshtml"); 
+        }
     }
 }
