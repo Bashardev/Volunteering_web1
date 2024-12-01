@@ -1,0 +1,4 @@
+C:\Users\admin\source\repos\volunteer-web\volunteer-web.client\obj\Debug\volunteer-web.client.esproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Web app dev\PROJECT\volunteer-web-main\volunteer-web.client\obj\Debug\volunteer-web.client.esproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Volunteering_web1-main (2)\Volunteering_web1-main\volunteer-web.client\obj\Debug\volunteer-web.client.esproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Web app dev\PROJECT\Volunteering_web1\volunteer-web.client\obj\Debug\volunteer-web.client.esproj.CoreCompileInputs.cache

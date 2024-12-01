@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\volunteer-web.client",
+    "\\volunteer-web.client\\src",
+    "\\volunteer-web.client\\src\\components",
+    "\\volunteer-web.client\\src\\components\\navbar",
+    "\\volunteer-web.client\\src\\pages",
+    "\\volunteer-web.Server",
+    "\\volunteer-web.Server\\Controllers",
+    "\\volunteer-web.Server\\Models",
+    "\\volunteer-web.Server\\Views"
+  ],
+  "SelectedNode": "\\volunteer-web.sln",
+  "PreviewInSolutionExplorer": false
+}

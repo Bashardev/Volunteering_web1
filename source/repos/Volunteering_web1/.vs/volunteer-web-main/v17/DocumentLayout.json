@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.Server\\Controllers\\PostsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:volunteer-web.Server\\Controllers\\PostsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.Server\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:volunteer-web.Server\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.client\\src\\pages\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:volunteer-web.client\\src\\pages\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.client\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:volunteer-web.client\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:volunteer-web.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.Server\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "volunteer-web.Server\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.Server\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "volunteer-web.Server\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:34:26.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.Server\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "volunteer-web.Server\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.Server\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "volunteer-web.Server\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:34:11.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.jsx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.client\\src\\pages\\login.jsx",
+              "RelativeDocumentMoniker": "volunteer-web.client\\src\\pages\\login.jsx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.client\\src\\pages\\login.jsx",
+              "RelativeToolTip": "volunteer-web.client\\src\\pages\\login.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-02T10:33:38.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "volunteer-web.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.client\\src\\App.jsx",
+              "RelativeToolTip": "volunteer-web.client\\src\\App.jsx",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-02T10:33:31.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "volunteer-web.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\volunteer-web-main\\volunteer-web.client\\src\\main.jsx",
+              "RelativeToolTip": "volunteer-web.client\\src\\main.jsx",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-02T10:33:24.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
