@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "zGlQaA79cJQON1M7S0t2gqq2Ha72ycINDmv+aG4WVfs=",
+  "Hash": "Ztgtc0TuNXgX7Yqk1pH3h9k+U23HePZ23eHZByqMaYE=",
   "Source": "volunteer-web.Server",
   "BasePath": "_content/volunteer-web.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\Volunteering_web1\\volunteer-web.client\\volunteer-web.client.esproj",
+      "Identity": "C:\\Users\\user\\source\\repos\\Volunteering_web1\\volunteer-web.client\\volunteer-web.client.esproj",
       "Version": 2,
       "Source": "volunteer-web.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

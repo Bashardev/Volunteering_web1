@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\Volunteering_web1\\volunteer-web.Server\\volunteer-web.Server.csproj": {}
+    "C:\\Users\\user\\Source\\Repos\\Volunteering_web1\\volunteer-web.Server\\volunteer-web.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\Volunteering_web1\\volunteer-web.Server\\volunteer-web.Server.csproj": {
+    "C:\\Users\\user\\Source\\Repos\\Volunteering_web1\\volunteer-web.Server\\volunteer-web.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\Volunteering_web1\\volunteer-web.Server\\volunteer-web.Server.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\Volunteering_web1\\volunteer-web.Server\\volunteer-web.Server.csproj",
         "projectName": "volunteer-web.Server",
-        "projectPath": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\Volunteering_web1\\volunteer-web.Server\\volunteer-web.Server.csproj",
+        "projectPath": "C:\\Users\\user\\Source\\Repos\\Volunteering_web1\\volunteer-web.Server\\volunteer-web.Server.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Web app dev\\PROJECT\\Volunteering_web1\\volunteer-web.Server\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Volunteering_web1\\volunteer-web.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
